@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40fbebac-bd31-44dd-b3f0-95139414aa49" name="Changes" comment="_" />
+    <list default="true" id="04f6067d-8fc6-4130-9273-3f0cb6fdeb01" name="Changes" comment="lab1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -99,5 +99,4 @@
     <MESSAGE value="created" />
     <MESSAGE value="_" />
     <option name="LAST_COMMIT_MESSAGE" value="_" />
-  </component>
 </project>
